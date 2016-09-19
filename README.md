@@ -1,6 +1,5 @@
 # Mec & Dev
 
-###Projeto Open Source. 
 
 O objetivo do projeto é criar um "blog" como aprendizado para os envolvidos.
 
