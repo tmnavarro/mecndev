@@ -1,0 +1,26 @@
+{
+  "name": "mecndev",
+  "version": "0.0.1",
+  "description": "Blog de programação.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmnavarro/mecndev.git"
+  },
+  "keywords": [
+    "Blog",
+    "Node.js",
+    "Programação",
+    "MEAN"
+  ],
+  "author": "Charles Araújo & Túlio Navarro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmnavarro/mecndev/issues"
+  },
+  "homepage": "https://github.com/tmnavarro/mecndev#readme"
+}
